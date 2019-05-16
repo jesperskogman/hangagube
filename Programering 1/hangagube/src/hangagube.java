@@ -49,7 +49,7 @@ public class hangagube {
                 System.out.println("Du vann!");
             }
         }
-
+  
 
     }
     private static void printGubbe(String[] gubbe, int j){
